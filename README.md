@@ -120,7 +120,8 @@ Increase visibility of best-selling and highest-rated products.
 
 📷 Dashboard Preview
 
-<img width="1275" height="727" alt="Screenshot 2026-06-13 220117" src="https://github.com/user-attachments/assets/774a4784-23d1-4ba9-90f1-305ec08887aa" />
+<img width="1446" height="822" alt="Screenshot 2026-06-14 013645" src="https://github.com/user-attachments/assets/bee155fb-d7ba-4936-84ac-a46860f40d4b" />
+
 
 
 
